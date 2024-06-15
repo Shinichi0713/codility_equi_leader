@@ -37,4 +37,5 @@ each element of array A is an integer within the range [−1,000,000,000..1,000,
 配列のリーダーはAの要素の半分以上となるもの<br>
 equi リーダーを探すことがゴール<br>
 
+![image](https://github.com/Shinichi0713/codility_equi_leader/assets/61480734/5637a559-0af8-4492-b309-235d8d9ff71a)
 
